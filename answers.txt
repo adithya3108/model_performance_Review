@@ -6,4 +6,4 @@ accuracy_model_b: 80.0%
 duplicate_question_ids: q031, q039, q042, q044, q047, q049
 wrong_answer_key_ids: q006, q026, q038
 # Optional, not marked: a link to your GitHub profile or other public code.
-github_profile: https://github.com/adithya3108
+github_profile: https://github.com/adithya3108/model_performance_Review
