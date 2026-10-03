@@ -1,0 +1,9 @@
+Tools used
+
+- Claude Code (Anthropic, model Claude Opus 5.5), an AI coding assistant running in VS Code.
+  I used it to inspect the CSV files, find the measurement problems (exact-match scoring,
+  wrong answer-key entries, duplicate questions, unequal temperatures), write analyse.py,
+  and draft writeup.md and answers.txt. I reviewed the output and re-ran the code myself
+  to check every number.
+- Python 3.12 (standard library only) to run score.py and analyse.py.
+- VS Code as the editor.
